@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="75px" height="66px" viewBox="0 0 75 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1 (8751) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="logo" sketch:type="MSLayerGroup">
+            <path d="M18.8839687,44.0117163 L18.8839687,65.9331307 L28.2248749,60.5167173 L37.4969627,54.8990417 L18.8839687,44.0117163 Z" id="l-green" fill="#C3E4D3" sketch:type="MSShapeGroup" transform="translate(28.127347, 55.000000) scale(1, -1) translate(-28.127347, -55.000000) "></path>
+            <path id="l-green-2" fill="#C3E4D3" sketch:type="MSShapeGroup" transform="translate(19.046133, 55.000000) scale(1, -1) translate(-19.046133, -55.000000) " d="M18.8661,44.0204339 L18.7647529,66.0630473 L19.1501764,65.844551 L19.1501764,44.1706114 L18.8661,44.0204339 Z"></path>
+            <path d="M0.202549035,32.9912309 L0.202549035,54.9660121 L18.8839679,65.9863353 L18.8839687,44.0668693 L0.202549035,32.9912309 Z" id="d-green" fill="#35C4AC" sketch:type="MSShapeGroup"></path>
+            <path d="M0.202549035,32.6467407 L0.202549035,40.2494122 L18.8839679,44.0621417 L18.8839687,36.4786078 L0.202549035,32.6467407 Z" id="d-green-2" fill="#35C4AC" sketch:type="MSShapeGroup"></path>
+            <path d="M0.202573819,11.0346967 L0.202573819,32.9952625 L18.8839687,44.0668693 L18.8839687,22.1337386 L0.202573819,11.0346967 Z" id="l-purple" fill="#EF639C" sketch:type="MSShapeGroup"></path>
+            <path d="M18.6377911,21.9853836 L18.6377911,43.9101132 L19.3482866,44.3191117 L19.3482866,22.3886929 L18.6377911,21.9853836 Z" id="l-purple-2" fill="#EF639C" sketch:type="MSShapeGroup"></path>
+            <path d="M18.8839687,22.1105199 L18.8839687,44.0668693 L37.5,55.100304 L37.5,33.1671733 L18.8839687,22.1105199 Z" id="d-purple" fill="#E83E83" sketch:type="MSShapeGroup"></path>
+            <path d="M36.6795892,33.1671732 L37.1540561,54.8681831 L37.5014934,55.0922033 L37.8243291,54.9355673 L37.8243291,33.1671733 L36.6795892,33.1671732 Z" id="d-purple-2" fill="#E83E83" sketch:type="MSShapeGroup"></path>
+            <path d="M37.5,44.0785635 L37.5,66 L46.8409062,60.5835866 L56.1169106,54.9673031 L37.5,44.0785635 Z" id="l-yellow" fill="#FFC66A" sketch:type="MSShapeGroup" transform="translate(46.808016, 55.033435) scale(-1, -1) translate(-46.808016, -55.033435) "></path>
+            <path d="M37.6253737,44.0203976 C37.6253737,44.0203976 37.554624,44.0659348 37.554624,44.0743121 C37.554624,51.4283378 37.5838865,66.1481126 37.5838865,66.1481126 L56.2165812,54.9662733 L37.6253737,44.0203976 Z" id="l-yellow-2" fill="#FFC66A" sketch:type="MSShapeGroup" transform="translate(46.872653, 55.000000) scale(-1, -1) translate(-46.872653, -55.000000) "></path>
+            <path d="M56.1160313,32.9800462 L56.1160313,54.899696 L74.7980123,65.972663 L74.7980123,43.9987419 L56.1160313,32.9800462 Z" id="d-yellow" fill="#FFAC76" sketch:type="MSShapeGroup" transform="translate(65.456937, 49.483283) scale(1, -1) translate(-65.456937, -49.483283) "></path>
+            <path d="M56.1160313,32.459731 L56.1160313,33.0973098 L74.7980123,44.1702767 L74.7980128,43.5821599 L56.1160313,32.459731 Z" id="d-yellow-2" fill="#FFAC76" sketch:type="MSShapeGroup" transform="translate(65.521575, 38.417910) scale(1, -1) translate(-65.521575, -38.417910) "></path>
+            <path d="M56.1160313,11.0334347 L56.1160313,32.9665653 L74.797653,44.0630553 L74.797653,22.1034915 L56.1160313,11.0334347 Z" id="l-red" fill="#FF716A" sketch:type="MSShapeGroup" transform="translate(65.456937, 27.550152) scale(1, -1) translate(-65.456937, -27.550152) "></path>
+            <path d="M55.7917022,22.2215799 L55.7917022,44.3283594 L56.4739079,44.3283594 L56.4739079,22.6272709 L55.7917022,22.2215799 Z" id="l-red-2" fill="#FF716A" sketch:type="MSShapeGroup" transform="translate(56.116031, 33.231048) scale(1, -1) translate(-56.116031, -33.231048) "></path>
+            <path d="M37.5,22.1337386 L37.5,44.0668693 L56.1160313,55.100304 L56.1160313,33.1671733 L37.5,22.1337386 Z" id="d-red" fill="#FF4E45" sketch:type="MSShapeGroup" transform="translate(46.808016, 38.617021) scale(1, -1) translate(-46.808016, -38.617021) "></path>
+            <path d="M0.0728823113,0.133738602 L0.0978063506,22.2390361 L18.7583402,11.233765 L0.0728823113,0.133738602 Z" id="l-gray-left" fill="#F4F4F4" sketch:type="MSShapeGroup" transform="translate(9.478425, 11.133739) scale(-1, -1) translate(-9.478425, -11.133739) "></path>
+            <path d="M19.2235671,22.3697083 L19.100481,0.588465495 L18.5845636,0.293323001 L18.5845636,22.3697083 L18.9056649,22.5719986 L19.2235671,22.3697083 Z" id="l-gray-left-2" fill="#F4F4F4" sketch:type="MSShapeGroup" transform="translate(18.883969, 11.297918) scale(-1, -1) translate(-18.883969, -11.297918) "></path>
+            <path d="M37.6299384,0.138366547 L37.6148348,22.2463353 L56.2524921,11.138741 L37.6299384,0.138366547 Z" id="m-gray" fill="#F0EEEF" sketch:type="MSShapeGroup" transform="translate(46.872653, 11.133739) scale(-1, -1) translate(-46.872653, -11.133739) "></path>
+            <path d="M37.0955102,0.0618955483 L36.8537413,0.20248872 L36.8537413,22.1530363 L36.9661767,22.2463353 L56.0507091,10.9059352 L37.0955102,0.0618955483 Z" id="m-gray-2" fill="#F0EEEF" sketch:type="MSShapeGroup" transform="translate(46.548324, 11.133739) scale(-1, -1) translate(-46.548324, -11.133739) "></path>
+            <path d="M56.1160313,0 L56.1288493,22.1138786 L74.8022802,11.0981959 L56.1160313,0 Z" id="l-gray-right" fill="#F4F4F4" sketch:type="MSShapeGroup" transform="translate(65.456937, 11.066869) scale(1, -1) translate(-65.456937, -11.066869) "></path>
+            <path d="M37.4977303,-0.0225496147 L18.8839687,11.0376951 L18.8580349,33.1391219 L56.1179545,11.0376946 L37.4977303,-0.0225496147 Z" id="d-gray" fill="#E8E2E4" sketch:type="MSShapeGroup" transform="translate(37.500000, 16.583587) scale(1, -1) translate(-37.500000, -16.583587) "></path>
+        </g>
+    </g>
+</svg>
